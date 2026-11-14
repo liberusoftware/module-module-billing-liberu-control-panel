@@ -3,7 +3,7 @@
   "name": "module-billing-liberu-control-panel",
   "display_name": "Billing Liberu Control Panel",
   "description": "Optional Liberu Control Panel hosting account adapter.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "adapter",
   "provider": "Liberu\\Billing\\LiberuControlPanel\\LiberuControlPanelServiceProvider",
   "requires": {

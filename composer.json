@@ -5,7 +5,7 @@
   "license": "MIT",
   "require": {
     "php": "^8.5",
-    "guzzlehttp/guzzle": "^8.5",
+    "guzzlehttp/guzzle": "^7.16.1 || ^8.5",
     "liberusoftware/module-billing-hosting": "^0.1",
     "liberusoftware/module-manager": "^1.0"
   },
@@ -19,7 +19,7 @@
       "name": "module-billing-liberu-control-panel"
     }
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "config": {
     "allow-plugins": {
       "pestphp/pest-plugin": true
